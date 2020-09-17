@@ -8,8 +8,7 @@
 | Topic | Description | Link |
 | --- | --- | --- |
 | Lesson | Principles of Data Visualization Starter Code | [Link](./starter-code.ipynb)|
-
-> **Dataset description:** Stocks Data
+| Practice | Exercise to practice using matplotlib | [Link](./exercise-starter-code.ipynb)|
 
 ---
 
